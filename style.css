@@ -1,0 +1,31 @@
+*{
+    background-color: #96d8cf;
+}
+
+#titulo{
+    font-family: 'Lucida Sans';
+    font-size: 35px;
+    text-align: center;
+    color: #7c64f5;
+}
+
+h2, h3{
+    font-family: Georgia;
+    font-size: 30px;
+    color: #1a7ef0;
+}
+
+#parrafo{
+    text-align: justify;
+    font-size: 18px;
+}
+
+.texto{
+    font-size: 18px;
+}
+
+#contactos{
+    font-family: Verdana;
+    font-size: 15px;
+    text-align: center;
+}
